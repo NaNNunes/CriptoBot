@@ -1,0 +1,15 @@
+{
+  "tickers": [],
+  "traders": [
+    {
+      "id": "1",
+      "wallet_value": "1000,00"
+    }
+  ],
+  "bot": [
+    {
+      "id": "1",
+      "isActive": false
+    }
+  ]
+}
